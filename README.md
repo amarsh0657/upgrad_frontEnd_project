@@ -2033,6 +2033,7 @@ For example:
 #### Serving the Same Build from Different Paths
 
 >Note: this feature is available with `react-scripts@0.9.0` and higher.
+  
 
 If you are not using the HTML5 `pushState` history API or not using client-side routing at all, it is unnecessary to specify the URL from which your app will be served. Instead, you can put this in your `package.json`:
 
